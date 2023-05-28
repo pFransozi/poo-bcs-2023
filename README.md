@@ -7,6 +7,7 @@ Cada equipe deve desenvolver um projeto proprio, de acordo com as regras estabel
 
 ## Rubricas
 
+### Fase 1
 1. O programa é estruturado em classes de acordo com o princípio de encapsulamento; 
 2. O programa é composto de, no mínimo, 5 classes;
 3. O programa contém, ao menos, uma classe abstrata; 
@@ -21,9 +22,13 @@ abstrato, inclusive);
 multiplicidade);
 10. O programa utiliza, ao menos, uma coleção de objetos (por exemplo, usando a classe
 ArrayList);
+
+### Fase 2
 11. O programa contém, ao menos, uma classe derivada da classe Exception;
 12. O programa possui uma interface gráfica;
 13. O programa lê dados de um arquivo csv ou txt;
 14. O programa recupera e salva objetos persistentes;
 
 ## Projeto
+
+Programa que gerencia venda e aluguel de equipamentos da construção civil. 
