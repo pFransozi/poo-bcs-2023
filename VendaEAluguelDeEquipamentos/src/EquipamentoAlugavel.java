@@ -33,21 +33,18 @@ public abstract class EquipamentoAlugavel extends Equipamento {
         this.setDataAluguel(dataAluguel);
     }
 
+    public abstract Date dataFimAluguel();
+
     @Override
     public double calcularValorFinal() {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'calcularValorFinal'");
     }
 
-    public Date dataEntregaAluguel()
-    {
-        throw new UnsupportedOperationException("Unimplemented method 'calcularValorFinal'");
-    }
-
     @Override
     public void printInfo() {
         super.printInfo();
-        System.out.println("Equipamento Alugavel");
+        System.out.println("Equipamento Alugavel:");
         System.out.println("Dias de Aluguel: " + this.getMaxDiasAluguel());
         System.out.println("Data Inicio Aluguel: " + this.getDataAluguel());
     }
