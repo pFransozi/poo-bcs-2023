@@ -24,10 +24,11 @@ multiplicidade);
 ArrayList);
 
 ### Fase 2
-11. O programa contém, ao menos, uma classe derivada da classe Exception;
-12. O programa possui uma interface gráfica;
+12. O programa possui uma interface gráfica; não
+
+11. O programa contém, ao menos, uma classe derivada da classe Exception; sim
 13. O programa lê dados de um arquivo csv ou txt;
-14. O programa recupera e salva objetos persistentes;
+14. O programa recupera e salva objetos persistentes; sim
 
 ## Projeto
 

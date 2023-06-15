@@ -1,0 +1,4 @@
+./equipamentosParaAlugar.ser
+./equipamentosParaVender.ser
+./equipamentosAlugados.ser
+./equipamentosVendidos.ser

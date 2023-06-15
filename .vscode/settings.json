@@ -1,0 +1,22 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "VendaEAluguelDeEquipamentos/lib/gson-2.10.1.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx.controls.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx.fxml.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx.media.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx.web.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx-swt.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx.base.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx.graphics.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx.swing.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx-sdk-20.0.1/lib/javafx.controls.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx-sdk-20.0.1/lib/javafx.fxml.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx-sdk-20.0.1/lib/javafx.media.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx-sdk-20.0.1/lib/javafx.web.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx-sdk-20.0.1/lib/javafx-swt.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx-sdk-20.0.1/lib/javafx.base.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx-sdk-20.0.1/lib/javafx.graphics.jar",
+        "VendaEAluguelDeEquipamentos/lib/javafx-sdk-20.0.1/lib/javafx.swing.jar"
+    ]
+}
